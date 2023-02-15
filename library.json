@@ -1,0 +1,20 @@
+{
+  "name": "rp2040_st7565r",
+  "version": "0.0.2",
+  "description": "A library to use ST7565R LCD using the original SDK",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/skylordants/rp2040_st7565r.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Ants Kärner",
+      "email": "karner.ants@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
